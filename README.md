@@ -89,10 +89,11 @@ What makes me unique:
 ```
 
 - Started with **HTML/CSS/PHP** — Login systems, university portals
+- Grew Into **Java** 
 - Grew into **Python** — Automation, games, web apps
-- Leveled up with **React / Next.js** — Modern frontend development
+- Leveled up with **Javascritp / React / Next.js** — Modern frontend development
 - Now building **AI-powered systems** — Face recognition, EcoStreamAI
-- Goal: **Production-grade AI apps** that are scalable, fast, and beautiful
+- Goal: **Production-grade AI Web Developement  and Java Applications ** that are scalable, fast, and beautiful
 
 ---
 
@@ -101,8 +102,8 @@ What makes me unique:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Krrish--vader-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krrish-vader)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krrish-vader)
-[![Email](https://img.shields.io/badge/Email-Hit%20Me%20Up-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krrishjain356/)
+[![Email](https://img.shields.io/badge/Email-Hit%20Me%20Up-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krrish456786@gmail.com)
 
 <br/>
 
@@ -114,7 +115,7 @@ What makes me unique:
 
 <br/>
 
-> *"Drop me a message and let's create something awesome. Thanks for stopping by!"* 🚀
+> *Have an idea or project in mind? Let's connect and build something awesome together. Thanks for visiting! 🚀
 
 </div>
 
