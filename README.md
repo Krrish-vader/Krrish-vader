@@ -5,15 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Smart+Web+Apps+with+AI+%F0%9F%A4%96;Computer+Vision+%7C+Face+Recognition+%F0%9F%91%81%EF%B8%8F;Full+Stack+Developer+%7C+Python+Dev+%F0%9F%90%8D;React+%7C+Next.js+%7C+JavaScript+%E2%9A%A1;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Krrish-vader&style=for-the-badge&color=7B2FBE&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <a href="https://github.com/Krrish-vader?tab=followers">
-    <img src="https://img.shields.io/github/followers/Krrish-vader?style=for-the-badge&color=00D4FF&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
-  </a>
-  <a href="https://github.com/Krrish-vader?tab=stars">
-    <img src="https://img.shields.io/github/stars/Krrish-vader?style=for-the-badge&color=FFD700&labelColor=0d1117&label=STARS" alt="Stars"/>
-  </a>
-</p>
 
 </div>
 
