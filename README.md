@@ -1,16 +1,136 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Krrish-vader/Krrish-vader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated Typing Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7B2FBE,100:00D4FF&height=200&section=header&text=Hey%20there!%20I'm%20Krrish%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=60&descSize=20&animation=fadeIn" alt="Header" width="100%"/>
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Smart+Web+Apps+with+AI+%F0%9F%A4%96;Computer+Vision+%7C+Face+Recognition+%F0%9F%91%81%EF%B8%8F;Full+Stack+Developer+%7C+Python+Dev+%F0%9F%90%8D;React+%7C+Next.js+%7C+JavaScript+%E2%9A%A1;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Krrish-vader&style=for-the-badge&color=7B2FBE&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <a href="https://github.com/Krrish-vader?tab=followers">
+    <img src="https://img.shields.io/github/followers/Krrish-vader?style=for-the-badge&color=00D4FF&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
+  </a>
+  <a href="https://github.com/Krrish-vader?tab=stars">
+    <img src="https://img.shields.io/github/stars/Krrish-vader?style=for-the-badge&color=FFD700&labelColor=0d1117&label=STARS" alt="Stars"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Full Stack Developer · AI Engineer · Creative Builder
+
+> *"Turning complex ideas into sleek, intelligent applications — from web to AI and beyond."*
+
+</div>
+
+---
+
+## 🧠 About Me
+
+I'm **Krrish**, a passionate **Full Stack Developer** and **AI Engineer** who loves building complete, end-to-end solutions — from intelligent web apps to computer vision systems.
+
+What makes me unique:
+- 🤖 **AI-Powered Apps** — Built a Face Recognition Secure Login System using OpenCV + Deep Learning
+- 🌿 **Real-World Projects** — EcoStreamAI, Trojan Sneakers e-commerce, Task Manager Web App
+- ⚡ **Full Stack** — React, Next.js, Python (Flask/FastAPI), PHP, HTML/CSS/JS
+- 🗄️ **Database Driven** — Comfortable with SQL, REST APIs, and backend logic
+- 🎯 **Business-Minded** — I build things that actually solve problems
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 🤖 AI & Computer Vision
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### 🌐 Frontend & Web
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### 🔧 Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 🎮 Play While You Browse!
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino Game" width="100%"/>
+
+</div>
+
+---
+
+## 🌟 Professional Evolution
+
+```
+🎓 Student  →  🌐 Web Dev  →  🐍 Python Dev  →  🤖 AI Engineer  →  ⚡ Full Stack Dev
+```
+
+- Started with **HTML/CSS/PHP** — Login systems, university portals
+- Grew into **Python** — Automation, games, web apps
+- Leveled up with **React / Next.js** — Modern frontend development
+- Now building **AI-powered systems** — Face recognition, EcoStreamAI
+- Goal: **Production-grade AI apps** that are scalable, fast, and beautiful
+
+---
+
+## 🤝 Let's Connect & Build Something Awesome
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Krrish--vader-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krrish-vader)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krrish-vader)
+[![Email](https://img.shields.io/badge/Email-Hit%20Me%20Up-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+<br/>
+
+**Hit me up for:**
+- 🤖 AI Engineering — Computer Vision, Face Recognition
+- 🌐 Full Stack Projects — React, Next.js, Flask, PHP
+- 🌿 Smart Web Apps — with AI features baked in
+- 🎓 Collaboration — Let's build something meaningful together!
+
+<br/>
+
+> *"Drop me a message and let's create something awesome. Thanks for stopping by!"* 🚀
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:7B2FBE,100:0d1117&height=100&section=footer&text=Let's%20Connect!%20🤝&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
+
+*⭐ From [Krrish-vader](https://github.com/Krrish-vader) — From curious student to innovative builder ⭐*
+
+</div>
