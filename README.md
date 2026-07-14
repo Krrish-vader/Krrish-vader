@@ -121,10 +121,3 @@ What makes me unique:
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:7B2FBE,100:0d1117&height=100&section=footer&text=Let's%20Connect!%20🤝&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
-
-*⭐ From [Krrish-vader](https://github.com/Krrish-vader) — From curious student to innovative builder ⭐*
-
-</div>
