@@ -80,22 +80,6 @@ What makes me unique:
 
 </div>
 
----
-
-## 🌟 Professional Evolution
-
-```
-🎓 Student  →  🌐 Web Dev  →  🐍 Python Dev  →  🤖 AI Engineer  →  ⚡ Full Stack Dev
-```
-
-- Started with **HTML/CSS/PHP** — Login systems, university portals
-- Grew Into **Java** 
-- Grew into **Python** — Automation, games, web apps
-- Leveled up with **Javascritp / React / Next.js** — Modern frontend development
-- Now building **AI-powered systems** — Face recognition, EcoStreamAI
-- Goal: **Production-grade AI Web Developement  and Java Applications ** that are scalable, fast, and beautiful
-
----
 
 ## 🤝 Let's Connect & Build Something Awesome
 
