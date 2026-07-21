@@ -24,13 +24,6 @@
 
 I'm **Krrish**, a passionate **Full Stack Developer** and **AI Engineer** who loves building complete, end-to-end solutions — from intelligent web apps to computer vision systems.
 
-What makes me unique:
-- 🤖 **AI-Powered Apps** — Built a Face Recognition Secure Login System using OpenCV + Deep Learning
-- 🌿 **Real-World Projects** — EcoStreamAI, Trojan Sneakers e-commerce, Task Manager Web App
-- ⚡ **Full Stack** — React, Next.js, Python (Flask/FastAPI), PHP, HTML/CSS/JS
-- 🗄️ **Database Driven** — Comfortable with SQL, REST APIs, and backend logic
-- 🎯 **Business-Minded** — I build things that actually solve problems
-
 ---
 
 ## 🛠️ Tech Stack & Skills
