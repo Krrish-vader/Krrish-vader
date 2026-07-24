@@ -9,6 +9,16 @@ Computer Science Undergraduate | Java Backend Developer | AI & Full-Stack Enthus
 I'm a Computer Science undergraduate passionate about building scalable backend systems, AI-powered applications, and full-stack software solutions. I enjoy solving real-world problems using Java, Spring Boot, Python, and modern development technologies while continuously learning software engineering best practices.
 </p>
 
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="420"/>
+
+</td>
+
+</tr>
+</table>
 
 ## 🛠️ Tech Stack & Skills
 
