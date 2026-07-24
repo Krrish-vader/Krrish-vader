@@ -1,11 +1,5 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7B2FBE,100:00D4FF&height=200&section=header&text=Hey%20there!%20I'm%20Krrish%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%Engineer%20%7C%20AI%20Engineer&descAlignY=60&descSize=20&animation=fadeIn" alt="Header" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Smart+Web+Apps+with+AI+%F0%9F%A4%96;Computer+Vision+%7C+Face+Recognition+%F0%9F%91%81%EF%B8%8F;Full+Stack+Developer+%7C+Python+Dev+%F0%9F%90%8D;React+%7C+Next.js+%7C+JavaScript+%E2%9A%A1;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-
 </div>
 
 ---
