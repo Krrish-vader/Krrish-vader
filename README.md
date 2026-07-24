@@ -1,24 +1,14 @@
-<div align="center">
 
-</div>
+<h1 align="center">Hi 👋, I'm Krrish Jain</h1>
 
----
+<h3 align="center">
+Computer Science Undergraduate | Java Backend Developer | AI & Full-Stack Enthusiast
+</h3>
 
-<div align="center">
+<p align="center">
+I'm a Computer Science undergraduate passionate about building scalable backend systems, AI-powered applications, and full-stack software solutions. I enjoy solving real-world problems using Java, Spring Boot, Python, and modern development technologies while continuously learning software engineering best practices.
+</p>
 
-## ⚡ Full Stack Developer & Backend Engineer & · AI Engineer · Creative Builder
-
-> *"Turning complex ideas into sleek, intelligent applications — from web to AI and beyond."*
-
-</div>
-
----
-
-## 🧠 About Me
-
-I'm **Krrish**, a passionate **Full Stack Developer** and **AI Engineer** who loves building complete, end-to-end solutions — from intelligent web apps to computer vision systems.
-
----
 
 ## 🛠️ Tech Stack & Skills
 
