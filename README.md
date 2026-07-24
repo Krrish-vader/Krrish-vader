@@ -12,7 +12,7 @@
 
 <div align="center">
 
-## ⚡ Full Stack Developer Backend Engineer & · AI Engineer · Creative Builder
+## ⚡ Full Stack Developer & Backend Engineer & · AI Engineer · Creative Builder
 
 > *"Turning complex ideas into sleek, intelligent applications — from web to AI and beyond."*
 
