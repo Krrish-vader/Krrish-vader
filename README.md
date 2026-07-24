@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Krrish Jain</h1>
 
 <h3 align="center">
-Computer Science Undergraduate | Java Backend Developer | AI & Full-Stack Enthusiast
+Computer Science Undergraduate | Java Developer | AI & Full-Stack Enthusiast
 </h3>
 
 <p align="center">
